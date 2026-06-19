@@ -1,10 +1,7 @@
-name = input("Name: ")
-age = int(input("Age: "))
-cgpa = float(input("CGPA: "))
+age = 25
+cgpa = 3.5
 
-print("----- Student Profile -----")
-print(f"Name: {name}")
-print(f"Age: {age}")
-print(f"CGPA: {cgpa}")
-
-print(f"After 5 years, your age will be {age + 5}")
+if age > 20 and cgpa > 3:
+    print("Eligible")
+else:
+    print("Not Eligible")
