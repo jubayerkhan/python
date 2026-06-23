@@ -5,3 +5,7 @@ for num in numbers:
         even.append(num)
 
 print(even)
+
+sq = [i*i for i in numbers]
+
+print(sq)
