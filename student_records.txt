@@ -1,0 +1,3 @@
+Name: JK
+Age: 26
+CGPA: 3.36
