@@ -1,3 +1,3 @@
-Name: JK
-Age: 26
-CGPA: 3.36
+Name: Mim
+Age: 25
+CGPA: 3.59
